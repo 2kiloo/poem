@@ -2,3 +2,4 @@ le soleil rayonne
 la lune eclaire
 les etoiles scintillent
 la terre tourne // add1
+l'univers s'etend //add2
