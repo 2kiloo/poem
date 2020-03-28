@@ -1,3 +1,4 @@
 le soleil rayonne 
 la lune eclaire
 les etoiles scintillent
+la terre tourne // add1
